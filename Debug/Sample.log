@@ -1,0 +1,8 @@
+﻿  sample.cpp
+c:\users\bradford\documents\450\assignment 3\sphere.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 3\sphere.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 3\sphere.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 3\sphere.cpp(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Bradford\Documents\450\Assignment 3\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
